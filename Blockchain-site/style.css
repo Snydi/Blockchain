@@ -1,0 +1,13 @@
+#button {
+    display: flex;
+    justify-content: center;
+    width: 20%;
+    margin-left: 40%;
+}
+.centered {
+    display: flex;
+    justify-content: center;
+}
+.transactionfields {
+    margin-left: 100px;
+}
